@@ -1,9 +1,4 @@
 /* Remove the standard margin/padding of the html body */
-body {
-    margin: 0;
-    padding: 0;
-}
-
 .menu {
     
 }
@@ -14,4 +9,9 @@ body {
 
 .footer {
 
+}
+.top {
+    display: flex;
+    height: 100px;
+    
 }
