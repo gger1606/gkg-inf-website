@@ -15,13 +15,15 @@
     height: 100px;
     font-size: 25px;
     padding-left: 250px;
+    color: red;
 }
 
 .top2 {
     display: flex;
     height: 100px;
     font-size: 25px;
-    padding-left: 300px;
+    padding-left: 500px;
+    color: red;
 }
 
 .text {
@@ -40,4 +42,28 @@
     color: black;
     padding-left: 250px;
     font-size: 20px;
+}
+
+.history{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+}
+
+.tripple{
+    display: flex;
+    height: 250px;
+
+}
+
+.top3{
+    display: flex;
+    height: 100px;
+    font-size: 25px;
+    padding-left: 400px;
+    color: red;
+}
+.cr{
+    display: flex;
+    height: 250px;
 }
