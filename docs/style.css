@@ -1,5 +1,7 @@
 /* Remove the standard margin/padding of the html body */
 .menu {
+    color: black;
+    padding-left: 250px;
     
 }
 

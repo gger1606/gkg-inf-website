@@ -19,6 +19,10 @@ Wie erwähnt wird hier ausführlicher die Geschichte erzählt, von der Gründung
 
 Auf der 2. Unterseiten liegt der Fokus auf den aktuellen Kader von Manchester United. Auch diese Seite ist sehr anfängerfreundlich und schlicht gehalten. Hier auf dieser Unterseite werden die Spieler der Reihe nach aufgelistet. Zu dem sind zu den Spieler kleine Details vermerkt, dazu gehören ein Bild (nur bei Stammspielern), der Vor- und Nachname, Position des Spielers und sowohl auch seine Nationalität.
 
+### Impressum 
+
+Kurz erklärt von wem diese Seite stammt und wie man uns kontaktieren könnte.
+
 ## Zeitplan
 
 3.5.2021, Beide, Die Vorlage kopieren/herunterladen
@@ -40,11 +44,13 @@ Oben ist der Titel, dann kommt eine Trennlinie. Unter der Trennlinie steht ein a
 
 Oben ist der Titel, dann kommt eine Trennlinie. Unter der Trennlinie steht ein Text, welcher die Geschichte des Vereins zusammendfasst + Bilder.
 
+### Unterseite 2
+
+Oben 
+
 ### Impressum
 
-Screenshot mit Beschreibung.
-
-usw...
+Oben ist der Titel, dann kommt eine Trennlinie. Unter der Trennlinie steht kurz geschrieben von wem die Website erstellt wurde und wie man uns kontaktieren könnte.
 
 ## Zusammenfassung
 
