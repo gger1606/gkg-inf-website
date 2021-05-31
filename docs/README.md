@@ -4,7 +4,7 @@ Manchester United, eine Art Fanpage mit Infos über die Mannschaft
 
 ## Projektplan
 
-Detaillierte Beschreibung der geplanten Funktionalität.
+Das Programm verlief eigentlich wie geplant, aber einige Dinge waren komplexer als andere.
 
 ### Hauptseite
 
@@ -46,7 +46,7 @@ Oben ist der Titel, dann kommt eine Trennlinie. Unter der Trennlinie steht ein T
 
 ### Unterseite 2
 
-Oben 
+Oben ist der Titel, dann kommt eine Trennlinie. Unter der Trennlinie steht ein Text und ein Bild, dass den Mannschaftskader und die Aufstellung zeigt.
 
 ### Impressum
 
